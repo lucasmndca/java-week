@@ -1,5 +1,5 @@
 enum ProcessorsENUM { //Enums are almost like a constants class. May be used to make your code cleaner!
-    I3,
+    I3, //This is pretty much a constant in this case
     I5,
     I7,
 }

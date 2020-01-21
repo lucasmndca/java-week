@@ -8,5 +8,11 @@ public enum GUIEnum {
     L,
 
     //APPOINTMENT
-    C
+    C,
+
+    //YES
+    Y,
+
+    //NO
+    N
 }
